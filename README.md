@@ -7,9 +7,22 @@ ZeroWaste is a UI/UX mobile app prototype designed to reduce food waste by conne
 
 ## Design Preview
 
-![Login Screen](screenshots/login-screen.png)
+## Design Preview
 
-![Dashboard Screen](screenshots/dashboard-screen.png)
+### Homepage
+![ZeroWaste Homepage](UI_design/Homepage.png)
+
+### Product Category
+![ZeroWaste Product Category](UI_design/Product%20Category.png)
+
+### Shopping Cart
+![ZeroWaste Shopping Cart](UI_design/shopping%20cart.png)
+
+### Order Tracking
+![ZeroWaste Order Tracking](UI_design/order%20tracking.png)
+
+### Sustainability Impact
+![ZeroWaste Impact Dashboard](UI_design/Impact%201.png)
 
 ## Interactive Prototype
 
