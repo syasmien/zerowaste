@@ -7,22 +7,34 @@ ZeroWaste is a UI/UX mobile app prototype designed to reduce food waste by conne
 
 ## Design Preview
 
-## Design Preview
-
-### Homepage
-<img src="UI_design/Homepage.png" width="400">
-
-### Product Category
-<img src="UI_design/Product%20Category.png" width="400">
-
-### Shopping Cart
-<img src="UI_design/shopping%20cart.png" width="400">
-
-### Order Tracking
-<img src="UI_design/order%20tracking.png" width="400">
-
-### Sustainability Impact
-<img src="UI_design/Impact%201.png" width="400">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Homepage</strong><br><br>
+      <img src="UI_design/Homepage.png" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Product Category</strong><br><br>
+      <img src="UI_design/Product%20Category.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Shopping Cart</strong><br><br>
+      <img src="UI_design/shopping%20cart.png" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Order Tracking</strong><br><br>
+      <img src="UI_design/order%20tracking.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Sustainability Impact</strong><br><br>
+      <img src="UI_design/Impact%201.png" width="70%">
+    </td>
+  </tr>
+</table>
 
 ## Interactive Prototype
 
